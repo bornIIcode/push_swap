@@ -1,0 +1,1 @@
+Push Swap is a 1337 School algorithmic project focused on sorting a stack of numbers with a limited set of operations, using the least number of moves possible. The project requires implementing an efficient sorting algorithm using two stacks (stack A and stack B) and a predefined set of commands to manipulate them.
